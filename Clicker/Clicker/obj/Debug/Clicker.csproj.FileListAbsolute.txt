@@ -1,0 +1,11 @@
+C:\Users\a6271\source\repos\Clicker\Clicker\bin\Debug\Clicker.exe.config
+C:\Users\a6271\source\repos\Clicker\Clicker\bin\Debug\Clicker.exe
+C:\Users\a6271\source\repos\Clicker\Clicker\bin\Debug\Clicker.pdb
+C:\Users\a6271\source\repos\Clicker\Clicker\obj\Debug\Clicker.csproj.AssemblyReference.cache
+C:\Users\a6271\source\repos\Clicker\Clicker\obj\Debug\Clicker.Properties.Resources.resources
+C:\Users\a6271\source\repos\Clicker\Clicker\obj\Debug\Clicker.csproj.GenerateResource.cache
+C:\Users\a6271\source\repos\Clicker\Clicker\obj\Debug\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\a6271\source\repos\Clicker\Clicker\obj\Debug\Clicker.exe
+C:\Users\a6271\source\repos\Clicker\Clicker\obj\Debug\Clicker.pdb
+C:\Users\a6271\source\repos\Clicker\Clicker\obj\Debug\Clicker.MainForm.resources
+C:\Users\a6271\source\repos\Clicker\Clicker\obj\Debug\Clicker.ShopForm.resources
